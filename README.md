@@ -1,1 +1,0 @@
-# openshift-gitops-lab
